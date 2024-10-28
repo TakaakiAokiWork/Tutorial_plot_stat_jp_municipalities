@@ -2,7 +2,7 @@
 title: "Tutorial 市区町村データを地図上に可視化する"
 author: "Takaaki Aoki"
 date: "`r Sys.Date()`"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
